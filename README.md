@@ -1,8 +1,8 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Abhinav</h1><br><h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel • Azure</h3><br><br><p align="center"><br>Passionate about transforming raw data into meaningful business insights through analytics, visualization, and automation.<br>Currently building real-world projects while continuously learning Cloud and Data Engineering.<br></p><br><br>---<br><br>## 🚀 About Me<br><br>🔭 Building real-world Data Analytics & Business Intelligence projects<br><br>🌱 Currently learning Azure Cloud, Data Engineering & AI-powered Analytics<br><br>📊 Passionate about solving business problems with data-driven solutions<br><br>🤝 Open to collaborating on Data Analytics, SQL, Power BI & Cloud projects<br><br>💬 Ask me about SQL, Python, Power BI, Excel, Dashboards & Data Visualization<br><br>🎯 Working towards becoming a Data Analyst who delivers impactful business insights<br><br>⚡ Fun fact: I enjoy turning messy datasets into clear, meaningful stories.<br><br>---<br><br>### 💡 Motto<br><br>> *"Data is only valuable when it drives better decisions."*<br>
-
+<br>
 <img align="right" alt="coding" img width="400" src="https://github.com/user-attachments/assets/3e4f3778-abce-4c03-ba25-55bd4507ff64" />
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhinavalhat) 
